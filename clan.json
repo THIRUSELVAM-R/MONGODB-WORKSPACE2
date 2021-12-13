@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "61b6e8d778d1fdc28656df9e"
+  },
+  "name": "samivan",
+  "roles": [
+    "clan leader",
+    "moderator",
+    "rank s++ hunter "
+  ]
+},{
+  "_id": {
+    "$oid": "61b6e8d778d1fdc28656df9f"
+  },
+  "name": "THIRU",
+  "roles": [
+    "shogun",
+    "rank s hunter"
+  ]
+},{
+  "_id": {
+    "$oid": "61b6e8d778d1fdc28656dfa0"
+  },
+  "name": "bubu",
+  "roles": [
+    "shogun",
+    "rank s++ hunter",
+    "lepracon"
+  ]
+},{
+  "_id": {
+    "$oid": "61b6e8d778d1fdc28656dfa1"
+  },
+  "name": "pensa",
+  "roles": [
+    "shogun",
+    "rank s++ hunter",
+    "power player"
+  ]
+}]
